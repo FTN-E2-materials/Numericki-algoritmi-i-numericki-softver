@@ -11,3 +11,4 @@
 ##### Vezbe 2 - Gausova eliminacija
 ##### vezba 3 - Sistem linearnih algebarskih jednacina;Iterativne metode 
 ##### Vezba 4 - Resavanje nelinearnih jednacina ( Metod Polovljenja,Metod secice,Metod regula falsi,Njutnov metod
+##### Vezba 5 - Interpolacija
