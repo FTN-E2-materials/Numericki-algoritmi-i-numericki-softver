@@ -32,4 +32,11 @@
  - **Njutnova** metoda - *veoma brza konvergencija*(ako je pocetno resenje blizu nule) ali nema garantovanu konvergenciju i zahteva postojanje prvog izvoda
 
 ###### Mogu divergirati ali nije potreban interval u kom se resenje nalazi.
+
+## Regula falsi - [zero, it] = zeroFalsePosition(f, a, b, errMax)
+###### *Zatvorena metoda* .<br /> Vraca 'zero' (nulu) funkcije tj. gde se funkcija 'f' sece sa x-osom  na intervalu 'a' , 'b'. Za neku toleranciju errMax.
+
+## Njutnova metoda - [zero, it] = zeroNewton(f, df, x0, errMax, itMax)
+###### *Otvorena metoda*.<br /> Vraca nulu('zero') funkcije 'f' uz pomoc prvog izvoda bez potrebe za zadatim intervalom.
+
 </p>
