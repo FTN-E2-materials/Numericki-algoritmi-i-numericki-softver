@@ -49,12 +49,10 @@
  ###### Mada, bez obzira koju metodu koristimo, kada smo odredili funkciju g~f, mozemo da je koristimo za odredjivanje vrednosti funkcije f u nepoznatim tackama.
 
 ## Interpolacija - p = lagrangeInterp(x, fX)
-###### Nasa funkcija 'g' je ustvari kod Lagranzeve interpolacije interpolacioni polinom tj g(x) = p1*x^(N-1) + p2*x^(N-2) +...+p(N-1)*x +pN odnosno u MATLAB-u g=[p1,p2,...,pn].<br /> Dve tacke jedinstveno definisu polinom prvog stepena,tri tacke jedinstveno definisu polinom drugog stepena,a 4 tacke jedinstveno definisu polinom 3 stepena itd tj.<br /> *N tacka jedinstveno odredjuje polinom stepena N-1*
-<br>
+###### Nasa funkcija 'g' je ustvari kod Lagranzeve interpolacije interpolacioni polinom tj g(x) = p1*x^(N-1) + p2*x^(N-2) +...+p(N-1)*x +pN odnosno u MATLAB-u g=[p1,p2,...,pn].<br /> Dve tacke jedinstveno definisu polinom prvog stepena,tri tacke jedinstveno definisu polinom drugog stepena,a 4 tacke jedinstveno definisu polinom 3 stepena itd tj.<br /> *N tacka jedinstveno odredjuje polinom stepena N-1* <br /> Nasa funkcija lagrangeInterp(x,fX) ocekuje vrednosti x i y a vraca polinom p
 
-###### Nasa funkcija lagrangeInterp(x,fX) ocekuje vrednosti x i y a vraca polinom p
-
-
+## Regresija - p = lSquares(x, fX, order)
+###### Order stepen polinoma sa kojim aproksimiramo funkciju 
 
 </p>
 
