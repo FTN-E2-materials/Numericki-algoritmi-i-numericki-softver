@@ -20,16 +20,16 @@
 <h1 align="center"> Resavanje nelinearnih jednacina </h1>
 
 ### Zatvorene metode:
- - Metoda **polovljenja**
- - **Regula falsi**
+ - Metoda **polovljenja** - garantovana konvergencija,ne zahteva prvi izvod ali spora i trazi interval u kom je resenje
+ - **Regula falsi** - garantovana konvergencija(brza od polovljenja,sporija od secice),ne zahteva prvi izvod ali trazi interval u kom je resenje
  
-###### Traze interval u kome se nalazi resenje.
+###### Mana im je sto traze interval u kome se nalazi resenje.
  <br>
  
 ### Otvorene metode:
 
- - Metoda **secice**
- - **Njutnova** metoda
+ - Metoda **secice**  - brza konvergencija (sporija od Njutnove) i ne zahteva prvi izvod ali nema garantovanu konvergenciju
+ - **Njutnova** metoda - *veoma brza konvergencija*(ako je pocetno resenje blizu nule) ali nema garantovanu konvergenciju i zahteva postojanje prvog izvoda
 
 ###### Mogu divergirati ali nije potreban interval u kom se resenje nalazi.
 </p>
