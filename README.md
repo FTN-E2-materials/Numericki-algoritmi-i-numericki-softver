@@ -1,5 +1,7 @@
 
-# Numericki algoritmi i numericki softver [Fakultet tehnickih nauka]
+<h1 align="center"> Numericki algoritmi i numericki softver </h1>
+
+
 <p align="center">
 
   <img width="500" height="300" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Regula_falsi_method.png">
